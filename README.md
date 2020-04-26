@@ -1,6 +1,6 @@
 # hammer
 
-A smart WeChat bot.
+A smart WeChat bot. [微信web接口已屏蔽，项目已无法使用]
 
 [基于jeeves做的web版微信消息控制工具](https://github.com/kanjielu/jeeves)
 
